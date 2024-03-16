@@ -44,8 +44,6 @@
     </ul>
     <h2>Contributing</h2>
     <p>Feel free to contribute to the project by submitting bug reports or feature requests.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 </body>
 </html>
