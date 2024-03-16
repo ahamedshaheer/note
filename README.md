@@ -21,7 +21,7 @@
     <h2>Usage</h2>
     <ol>
         <li>Clone the repository to your local machine:</li>
-        <code>git clone https://github.com/your-username/notes-app.git</code>
+        <code>git clone https://github.com/ahamedshaheer/note.git</code>
         <li>Set up a web server (e.g., Apache or Nginx) to serve the PHP files.</li>
         <li>Ensure the web server has write permissions to the <code>db.sqlite</code> file for storing notes.</li>
         <li>Access the application in your web browser, typically at <code>http://localhost/notes-app</code>.</li>
